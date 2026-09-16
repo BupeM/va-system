@@ -27,4 +27,4 @@ class VerbalAutopsy(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
     
     def __str__(self):
-        return self.deceased_name
+        return self.deceased_name   #method ensures records are displayed using the name of the deseaced

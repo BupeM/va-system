@@ -2,3 +2,4 @@ MVT: MVT is an architectural pattern that seperates data structures, request han
 MODEL: A model is basically a Python class that defines the attributes or fields of data we want to store
 VIEW: The View acts like some form of middleman between the user, the model, and the template and it handles the user requests and passes the necessary data onto the template
 TEMPLATE: The template is basically what the user sees, a presantation of the information as a webpage.
+MIGRATION: A migration is a set of instructions that tell Django what changes to be made to the database. Migrations are part of the source code and can be committed to git so everyone working on the project can have a consistent database structure. If each developer were to edit the database by hand, there would be inconsistencies.

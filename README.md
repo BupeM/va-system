@@ -29,7 +29,7 @@ python manage.py runserver
 
 
 #URL DEPLOYMENT:
-#Soon to be deployed
+https://edpythonaw.pythonanywhere.com/home/
 
 
 
@@ -37,7 +37,8 @@ python manage.py runserver
 #WHAT I LEARNED
 > What a verbal autopsy is and how it is useful in some circumstances.
 > The fundamentals of django MVT and how the compondents run together.
->The importance of migration files to keep the database structure consistent
+>The importance of migration files to keep the database structure consistent.
+>How to deploy a web application.
 
 
 BUPE MWABA
